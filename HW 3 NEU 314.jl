@@ -22,7 +22,6 @@ function show_channels(image)
     B= image[:,:,3];
     R= image[:,:,1];
     G= image[:,:,2];
-    # println("BUG, BUG, BUG")
+    println("Reset with git resert--mixed")
     return R, G, B
 end
-here
