@@ -22,7 +22,7 @@ function show_channels(image)
     B= image[:,:,3];
     R= image[:,:,1];
     G= image[:,:,2];
-    println("BUG, BUG, BUG")
+    # println("BUG, BUG, BUG")
     return R, G, B
 end
 here
